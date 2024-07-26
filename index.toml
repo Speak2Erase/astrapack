@@ -9,6 +9,10 @@ file = "config/dsurround/soundconfig.json"
 hash = "50c7d0eed6de7554ca908e51c624d1b1a533ba6a251a8a449da30ac617ff07c8"
 
 [[files]]
+file = "config/quilt_loading_screen.json"
+hash = "ddb4b78652475595b3138cf26f0f82f1da495b614911f9971ba883960adcf8ba"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "18da38fc422d0395aa2bd96e9f8aa37ea4f1bc409b1818f6330be5784e4deb03"
 metafile = true
@@ -146,11 +150,6 @@ metafile = true
 [[files]]
 file = "mods/croptopia.pw.toml"
 hash = "0bcd1969e90045a3e33769b574182f71a1a80a9f13140eb20558799b7d0782e6"
-metafile = true
-
-[[files]]
-file = "mods/dark-loading-screen.pw.toml"
-hash = "97ca0b01ac6888486402018e7c95ec3b219a89c3338a416fd25418def5f51fa1"
 metafile = true
 
 [[files]]
@@ -366,6 +365,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "9e9da779b67e9a944da81e921ff76c3388dfe9a475a3ff4f597b27af814cd28a"
+metafile = true
+
+[[files]]
+file = "mods/quilt-loading-screen.pw.toml"
+hash = "e08fdeed1d56d03938bc66e2f34fefe5df150afb6e8ec4d318f354d6413ec0ba"
 metafile = true
 
 [[files]]
