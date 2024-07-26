@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "e5d87db8974fa2b69870d7ea2f0878ae7d9aabd5f6b1cadb0ea45cd641e89f24"
+hash = "e09ceae04e73831b93c43e6a1f12da063fc24e1074f39fab1e00234a8de8a1e2"
 metafile = true
 
 [[files]]
@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "8e4e293525f9eb65c4a3db7044e9fa26721f75010b612d2ac15673f050e64d98"
+hash = "9e9da779b67e9a944da81e921ff76c3388dfe9a475a3ff4f597b27af814cd28a"
 metafile = true
 
 [[files]]
