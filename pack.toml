@@ -1,0 +1,14 @@
+name = "Astrapack"
+author = "Melody Madeline Lyons"
+version = "1.0.0"
+description = "A pack for the private Astrabit developer server"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "44252a1a2dd99f75d78527fff9214fbbaa469742afdd04590e46342fb3ac8962"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.26.4-beta.1"
