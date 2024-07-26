@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
+hash = "6b7814e65d663d33f0cdd9acf3665e86fc746daefd15ca495789925e13a2f3b5"
 metafile = true
 
 [[files]]
@@ -151,11 +151,6 @@ metafile = true
 [[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "97ca0b01ac6888486402018e7c95ec3b219a89c3338a416fd25418def5f51fa1"
-metafile = true
-
-[[files]]
-file = "mods/dashloader.pw.toml"
-hash = "f9f4439a50f6de55c91eab4c2dcbe1a6c9c325a7b87d1b579c79a6098f5dedc1"
 metafile = true
 
 [[files]]

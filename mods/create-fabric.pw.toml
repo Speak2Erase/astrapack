@@ -3,11 +3,6 @@ filename = "create-fabric-0.5.1-f-build.1417+mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Xbc0uyRg/versions/h2HgGyvA/create-fabric-0.5.1-f-build.1417%2Bmc1.20.1.jar"
+url = "https://cdn.discordapp.com/attachments/955293063318732860/1253181200047013979/create-fabric-0.5.1-f-build.1417mc1.20.1.jar?ex=66a3b8b1&is=66a26731&hm=34336495479887cdb1cbb934ab180a00e05b5cd8cd525d63fd025b31eccd4f84&"
 hash-format = "sha1"
-hash = "dc5c230e3b293092b457200883398225fffab597"
-
-[update]
-[update.modrinth]
-mod-id = "Xbc0uyRg"
-version = "h2HgGyvA"
+hash = "782fb67294b1f7551ba01d706be7f1453c1f8650"
