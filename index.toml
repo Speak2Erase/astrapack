@@ -13,6 +13,10 @@ file = "config/quilt_loading_screen.json"
 hash = "ddb4b78652475595b3138cf26f0f82f1da495b614911f9971ba883960adcf8ba"
 
 [[files]]
+file = "config/spiceoffabric.hjson"
+hash = "282ff2b3db3f574b42bead93e7792358f6dc0c179ecb8970354fa8a72c90ddcc"
+
+[[files]]
 file = "config/travelersbackpack.json5"
 hash = "f1f9d6a5ff2351726d274a573c61cad47a80b839a0c7b66283b1d6869e99a3c4"
 
@@ -428,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/spice-of-fabric.pw.toml"
-hash = "6fbcbd33edab029f2bdab8c4086d8eaefc1898d3e6f3ede884f890e4f17e93b0"
+hash = "6ce103cf463401162eb2f09934b5aed9277e1f4788879e11d41b3574c6f7b37c"
 metafile = true
 
 [[files]]
