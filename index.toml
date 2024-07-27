@@ -9,6 +9,10 @@ file = "config/dsurround/soundconfig.json"
 hash = "50c7d0eed6de7554ca908e51c624d1b1a533ba6a251a8a449da30ac617ff07c8"
 
 [[files]]
+file = "config/effective.json"
+hash = "602b27e3697a7ff4c8e78dc2603f8bbb24ae29947f5580c676f97e077fa04a49"
+
+[[files]]
 file = "config/quilt_loading_screen.json"
 hash = "ddb4b78652475595b3138cf26f0f82f1da495b614911f9971ba883960adcf8ba"
 
@@ -19,6 +23,10 @@ hash = "282ff2b3db3f574b42bead93e7792358f6dc0c179ecb8970354fa8a72c90ddcc"
 [[files]]
 file = "config/travelersbackpack.json5"
 hash = "f1f9d6a5ff2351726d274a573c61cad47a80b839a0c7b66283b1d6869e99a3c4"
+
+[[files]]
+file = "config/visuality.json"
+hash = "03f4a95d37b6e72706073efb5fe0e77a0e7ab4b8bf456521d82bf6a73694be51"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
