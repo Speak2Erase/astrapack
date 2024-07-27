@@ -13,6 +13,10 @@ file = "config/quilt_loading_screen.json"
 hash = "ddb4b78652475595b3138cf26f0f82f1da495b614911f9971ba883960adcf8ba"
 
 [[files]]
+file = "config/travelersbackpack.json5"
+hash = "f1f9d6a5ff2351726d274a573c61cad47a80b839a0c7b66283b1d6869e99a3c4"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "18da38fc422d0395aa2bd96e9f8aa37ea4f1bc409b1818f6330be5784e4deb03"
 metafile = true
@@ -134,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "6b7814e65d663d33f0cdd9acf3665e86fc746daefd15ca495789925e13a2f3b5"
+hash = "2d8bdde85575eeb25b44a5cd5f296a6c888cdad65ef966dce700c02466f49f96"
 metafile = true
 
 [[files]]
