@@ -18,7 +18,7 @@ hash = "ddb4b78652475595b3138cf26f0f82f1da495b614911f9971ba883960adcf8ba"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "282ff2b3db3f574b42bead93e7792358f6dc0c179ecb8970354fa8a72c90ddcc"
+hash = "4a599c5dd4fec277481ad62318385d229f93966a3029ed8f05ae38ff541decc2"
 
 [[files]]
 file = "config/travelersbackpack.json5"
@@ -495,12 +495,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "74a5d6dc2fa3494650bf951f2212c70eeb6b8d1af209b5dab4b7a8582302865c"
+hash = "803eaa1c3e1634bfb3fa2cb2a133b6c639604730f32bedca0ac9f27e01ecd496"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a66f114b66d41c0de64f6d7cb00d253b858ecb8dfef497aed5feac1a690111a2"
+hash = "574bc2b88d3f6214d781b29f0e7062630bf8c84f8409a18289288d1c075671d5"
 metafile = true
 
 [[files]]
