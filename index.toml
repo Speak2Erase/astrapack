@@ -18,7 +18,7 @@ hash = "ddb4b78652475595b3138cf26f0f82f1da495b614911f9971ba883960adcf8ba"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "4a599c5dd4fec277481ad62318385d229f93966a3029ed8f05ae38ff541decc2"
+hash = "6396da4a396fefea44da667fe0106cfdd1a161780ac799e0054e2b0ac09e5b56"
 
 [[files]]
 file = "config/travelersbackpack.json5"

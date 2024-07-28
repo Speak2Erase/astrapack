@@ -16,9 +16,9 @@
 		reset-carrot-mode: false
 	}
 	food: {
-		// default: hungerValue * power(0.7, timesEaten)
+		// default: hungerValue
 		// 	Must be a valid expression
-		hunger: hungerValue * power(0.7, timesEaten)
+		hunger: hungerValue
 		// default: saturationValue
 		// 	Must be a valid expression
 		saturation: saturationValue
